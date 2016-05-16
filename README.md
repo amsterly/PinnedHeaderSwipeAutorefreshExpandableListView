@@ -1,0 +1,2 @@
+# PinnedHeaderSwipeAutorefreshExpandableListView
+这个封装了主席的PinedHeaderExpandableListView并添加下拉刷新 左滑删除模块
